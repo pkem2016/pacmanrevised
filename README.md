@@ -1,2 +1,1 @@
-# pacmanrevised
-workinprogress
+# this is a pacman esque game
